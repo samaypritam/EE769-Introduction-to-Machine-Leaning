@@ -1,7 +1,8 @@
 # EE769-Introduction-to-Machine-Leaning
-Assignment 1 \n
-Assignment 2 \n
-Assignment 3 \n
-Course Project: \n
-  Speech Emotion Recognition(SER) using CNN \n
-  Report \n
+Assignment 1
+
+Assignment 2
+
+Assignment 3
+
+Course Project:1.Speech Emotion Recognition(SER) using CNN
